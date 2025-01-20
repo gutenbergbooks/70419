@@ -26,7 +26,6 @@ Produced by: MWS, KD Weeks and the Online Distributed Proofreading Team
 NAMES ***
 
 
-left 30 80 40 60 150 200 100 right 30 40 60
 
 ------------------------------------------------------------------------
 
